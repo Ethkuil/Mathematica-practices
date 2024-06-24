@@ -1,0 +1,65 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 14.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1872,         57]
+NotebookOptionsPosition[      1388,         40]
+NotebookOutlinePosition[      1795,         56]
+CellTagsIndexPosition[      1752,         53]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"Total", "[", 
+  RowBox[{"Select", "[", 
+   RowBox[{
+    RowBox[{"Range", "[", "2000000", "]"}], ",", " ", "PrimeQ"}], "]"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.928204635980209*^9, 3.928204640022156*^9}, {
+  3.928208670615539*^9, 3.9282086802951565`*^9}, {3.928208719112688*^9, 
+  3.928208760336357*^9}, {3.928209243130884*^9, 3.928209247008372*^9}, {
+  3.92820929753698*^9, 3.928209331384136*^9}, {3.92820941942214*^9, 
+  3.9282095744553413`*^9}, {3.928209653539549*^9, 3.9282096825953712`*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"e1ace357-650e-bc4c-92a2-29ff372889df"],
+
+Cell[BoxData["142913828922"], "Output",
+ CellChangeTimes->{3.9282310198653574`*^9, 3.9282400087327805`*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"ecd1a869-9bef-474b-85cc-b0761e4a1dda"]
+}, Open  ]]
+},
+WindowSize->{571, 612.5},
+WindowMargins->{{Automatic, 344.5}, {-61, Automatic}},
+FrontEndVersion->"14.0 for Microsoft Windows (64-bit) (December 1, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"1b1e7955-9f25-cc4f-926a-c7f79da7cc8b"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 604, 11, 28, "Input",ExpressionUUID->"e1ace357-650e-bc4c-92a2-29ff372889df"],
+Cell[1187, 35, 185, 2, 54, "Output",ExpressionUUID->"ecd1a869-9bef-474b-85cc-b0761e4a1dda"]
+}, Open  ]]
+}
+]
+*)
+
